@@ -1,0 +1,80 @@
+h1 {
+  font-family: montserrat;
+  font-size: 16px;
+  color: #0267ff;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: montserrat;
+  font-size: 16px;
+  color: #ff0296;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: montserrat;
+  font-size: 12px;
+  color: #000000;
+}
+
+.caja {
+  border: none;
+  border-radius: 2px;
+  width: 100%;
+  margin-bottom: 5px;
+  background-color: rgb(255, 255, 255);
+}
+
+.caja2 {
+  border: none;
+  margin-left: 20px;
+  border-radius: 2px;
+  width: 180%;
+  margin-bottom: 5px;
+  background-color: rgb(236, 236, 236);
+}
+
+.col1 {
+  background-color: rgb(236, 236, 236);
+  padding: 20px;
+}
+
+th,
+td {
+  font-family: montserrat;
+  font-size: 12px;
+}
+
+.col2 {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.Texto2 {
+  font-size: 12px;
+  text-align: right;
+  margin-top: 5px;
+  padding-top: 20px;
+}
+
+.texto-final {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: montserrat;
+  margin-top: 5px;
+}
+
+input {
+  text-align: right;
+  font-family: montserrat;
+  font-size: 12px;
+}
+
+.total-prog,
+.total-inicio-prog,
+.total-antes-recep,
+.total-con-recep {
+  font-weight: bold;
+}

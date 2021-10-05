@@ -1,0 +1,28 @@
+.montos-comercializacion{
+    display:flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+   
+}
+
+span {
+    display: flex;
+    width: 100%;
+    margin-right: 10px;
+    
+}
+
+.caja3 {
+    border: none;
+    margin-left: 20px;
+    border-radius: 2px;
+    height: 140%;
+    margin-top: 20px;
+  
+    background-color: rgb(236, 236, 236);
+}
+
+.monto-credito,.monto-total-credito {
+    font-weight: bold;
+}
